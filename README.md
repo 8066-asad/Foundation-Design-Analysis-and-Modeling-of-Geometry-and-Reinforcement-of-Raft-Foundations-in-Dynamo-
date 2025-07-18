@@ -207,14 +207,14 @@ Performs automated compliance checking:
 ## 📈 Model Performance
 
 ### XGBoost Model (Reinforcement Design)
-- **Training Accuracy**: R² > 0.95
-- **Cross-validation**: 5-fold CV with R² > 0.92
+- **Training Accuracy**: R² > 0.90
+- **Cross-validation**: 5-fold CV with R² > 0.71
 - **Features**: 13 input parameters + engineered features
 
 ### Extra Trees Model (Structural Analysis)
-- **Settlement Prediction**: R² > 0.94
-- **Punching Shear**: R² > 0.91
-- **Bearing Pressure**: R² > 0.93
+- **Settlement Prediction**: R² > 0.88
+- **Punching Shear**: R² > 0.93
+- **Bearing Pressure**: R² > 0.90
 
 ## 🎯 Usage Guide
 
