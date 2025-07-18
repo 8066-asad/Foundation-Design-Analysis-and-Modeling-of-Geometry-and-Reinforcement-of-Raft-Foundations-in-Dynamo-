@@ -322,7 +322,7 @@ Performs automated compliance checking:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the https://github.com/8066-asad/Foundation-Design-Analysis-and-Modeling-of-Geometry-and-Reinforcement-of-Raft-Foundations-in-Dynamo-/blob/main/LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
